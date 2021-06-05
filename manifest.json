@@ -1,0 +1,38 @@
+{
+  "name": "renunganhariankatolik.eu.org",
+  "short_name": "R H K",
+  "start_url": "https://www.renunganhariankatolik.eu.org",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Renungan Harian Katolik Terkini dan Terbaru Hari ini, di Update Setiap Hari",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-cCXevw-yLnc/YLBjZAH7XfI/AAAAAAAAB7s/ikHwJ6aFOVUT63CrR1BAe7ki-UXpJaxlgCLcBGAsYHQ/s48/48x48.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://3.bp.blogspot.com/-t9dXUYuus_I/YLBjZRt4geI/AAAAAAAAB70/vAO2HsPAxxMSNd6tyiniszZ-9j-R53_uACLcBGAsYHQ/s72/72x72.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://3.bp.blogspot.com/-2zHr0YTeHN0/YLBjZ56p7XI/AAAAAAAAB74/ptH7CxnxUnQUDsCQpELueaG7TMEtycZCACLcBGAsYHQ/s96/96x96.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://3.bp.blogspot.com/-cKk49_FVioQ/YLBjYWx3S3I/AAAAAAAAB7g/nmeaPJCAWGg_XOLsEG225HWu2oazCL7xQCLcBGAsYHQ/s144/144x144.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://3.bp.blogspot.com/-sj_J-BbzW9s/YLBjYjjYDFI/AAAAAAAAB7k/59vnel3kVsMIj2VEWz_tOVFnjdZ4o0JAACLcBGAsYHQ/s168/168x168.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://3.bp.blogspot.com/-S0waLJ6zO6E/YLBjYoOOviI/AAAAAAAAB7o/lbf9LZ2tMA8yZFZJX6Ys9fu1Tt9gV0hSgCLcBGAsYHQ/s192/192x192.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://3.bp.blogspot.com/-FIJFymcENqQ/YLBjZcPSqWI/AAAAAAAAB7w/7s162HAML3IwEPhrW8dzeecQFcjfwdApQCLcBGAsYHQ/s512/512x512.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
